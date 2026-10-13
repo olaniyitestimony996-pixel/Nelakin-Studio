@@ -1,98 +1,114 @@
+<div align="center">
+
 # Nelakin Studio
 
-### Professional Photo Editing. Simplified.
+### Remove backgrounds. Make products sell. Offline.
 
-**Nelakin Studio** is a desktop photo editing application developed by **Nela Company**, designed to make image editing, background removal, and photo preparation easier.
+Studio-quality cutouts, scenes and ads for sellers and designers, on your own computer.
+**No uploads. No watermark. No sign-up.**
 
-From removing image backgrounds to preparing passport photographs and refining pictures, Nelakin Studio brings essential photo editing tools into one convenient Windows application.
+<br>
 
-Our goal is simple: make professional-looking photo editing accessible, practical, and easy to use.
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-Free-7C5CFF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/olaniyitestimony996-pixel/Nelakin-Studio/releases/latest)
 
----
+![Version](https://img.shields.io/github/v/release/olaniyitestimony996-pixel/Nelakin-Studio?style=flat-square&color=7C5CFF&label=version)
+![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-blue?style=flat-square)
+![Offline](https://img.shields.io/badge/works-offline-34c759?style=flat-square)
+![Watermark](https://img.shields.io/badge/watermark-none-34c759?style=flat-square)
 
-## ✨ Features
+*A Nela Company product*
 
-- **Background Removal** — Remove backgrounds from images to create clean, isolated subjects.
-- **Passport Photo Preparation** — Prepare photographs for passport-style and identification photo use.
-- **Image Editing** — Edit and refine pictures for different personal and professional needs.
-- **Clean Backgrounds** — Replace or simplify image backgrounds where supported.
-- **Offline-Capable Editing** — Use supported editing tools without requiring a constant internet connection.
-- **Desktop Experience** — Access photo editing tools from your Windows computer.
-
-*Feature availability may vary by version. Specific editing options and passport photo requirements depend on the tools available in the application.*
+</div>
 
 ---
 
-## 🖥️ Platform
+## Your photos never leave your computer
 
-Nelakin Studio is currently designed for **Windows desktop computers**.
+Most background removers upload your pictures to someone else's server, make you wait, limit you, and stamp their logo on the result.
 
-## 📥 Installation
+Nelakin Studio does the work on your own PC. It starts fast, works with no internet, and gives you clean images you can post straight away.
 
-1. Visit the [Releases](../../releases) page.
-2. Download the latest available Nelakin Studio installer.
-3. Run the installer and follow the on-screen instructions.
-4. Open Nelakin Studio and start editing your images.
+## What you get
 
-If no release is available, check back when the first official build is published.
+### Cut out and style
+- **AI background removal** with fine detail for hair and edges
+- **Studio scenes:** marble, wood, concrete, bokeh and studio sweep
+- **14 one-click Looks** for products and portraits, plus your own saved Looks
+- **Colour adjust,** soft shadows and floor reflections
+
+### Sell faster
+- **Sized for your market:** Jumia, Konga, Instagram, Facebook and WhatsApp presets
+- **Price-tag ads:** your product name, price and WhatsApp number on the picture
+- **Catalog sheets:** your whole shop on one image
+- **Your own brand:** put your shop name or logo on every export
+- **Batch export** and **Watch folder** that processes new photos automatically
+
+### Passport photos
+- Exact passport and ID sizes
+- Print sheets on 4x6 or A4, ready to print or save as PDF
+
+## Free and Nela Pro
+
+Start free. Upgrade when you sell with it.
+
+| | **Free** | **Nela Pro** |
+|---|:---:|:---:|
+| AI background removal | Unlimited | Unlimited |
+| No watermark | Yes | Yes |
+| Studio sweep scene, shadows, colour adjust | Yes | Yes |
+| Passport photo (single) | Yes | Yes |
+| Export size | up to 1350 px | **Full HD, no cap** |
+| Batch export | 5 at a time | **Unlimited** |
+| Pro scenes and Looks, My Looks | - | **Yes** |
+| Price-tag ads and brand mark | - | **Yes** |
+| Catalog sheets and multi-size export | - | **Yes** |
+| Watch folder | - | **Yes** |
+| Passport print sheets | - | **Yes** |
+| Ultra Detail model and alpha matting | - | **Yes** |
+
+### How to get Nela Pro
+1. Email **olaniyitestimony996@gmail.com** with the subject *Nela Pro*.
+2. We reply with payment details.
+3. After payment, you get a licence key by email.
+4. In Nelakin Studio, open **Upgrade to Pro**, paste the key and click **Activate**. Pro turns on right away, and works offline.
+
+Online checkout is coming soon.
+
+## Install in 3 steps
+
+1. **[Download the latest version](https://github.com/olaniyitestimony996-pixel/Nelakin-Studio/releases/latest)** (`Nelakin-Studio-Setup.exe`).
+2. Run it. If Windows shows a blue "protected your PC" screen, click **More info**, then **Run anyway**. This appears for new apps from independent publishers.
+3. Open Nelakin Studio, type your name and start.
+
+**Requirements:** Windows 10 or 11 (64-bit). 8 GB of memory recommended.
+
+## Frequently asked questions
+
+**Is it really free?**
+Yes. Unlimited AI cutouts with no watermark. Pro adds full-size export and business tools.
+
+**Does it need internet?**
+No. Everything runs on your computer. The app only goes online to check for updates, and you can turn that off in Settings.
+
+**Are my photos uploaded anywhere?**
+Never.
+
+**How do updates work?**
+Nelakin Studio checks this page for new versions and shows an **Update** button when one is ready.
+
+**Can I use it on Mac or phone?**
+Not yet. Windows only for now.
+
+## Support
+
+Questions, bugs or ideas? Email **olaniyitestimony996@gmail.com** or open an [issue](https://github.com/olaniyitestimony996-pixel/Nelakin-Studio/issues).
 
 ---
 
-## 🌐 Offline Functionality
+<div align="center">
 
-Nelakin Studio is designed to support offline use for compatible features, including image-processing tasks that have their required resources installed locally.
+**Nelakin Studio** is built by **Nela Company**.
 
-Some features may require an internet connection for updates, online services, or additional downloads.
+[Download](https://github.com/olaniyitestimony996-pixel/Nelakin-Studio/releases/latest) | [Get Pro](mailto:olaniyitestimony996@gmail.com?subject=Nela%20Pro) | [Support](mailto:olaniyitestimony996@gmail.com)
 
----
-
-## 🎯 Who Is It For?
-
-Nelakin Studio is being developed for people who need practical photo editing tools, including:
-
-- Students and everyday computer users.
-- Photographers and content creators.
-- Designers and small businesses.
-- Users preparing passport-style or identification photographs.
-- Anyone who needs to remove image backgrounds or make quick photo adjustments.
-
----
-
-## 🚀 Development
-
-Nelakin Studio is under active development. We aim to improve the editing experience, enhance reliability, and introduce useful tools as the application evolves.
-
-Future development may include improvements to background removal, photo preparation, image editing, and overall usability.
-
----
-
-## 🐛 Feedback and Bug Reports
-
-Found a bug or have a suggestion?
-
-Visit the repository's [Issues](../../issues) section to report problems or suggest improvements.
-
-Please include your application version, Windows version, and steps to reproduce any issue.
-
----
-
-## 🏢 About Nela Company
-
-**Nela Company** develops software and technology solutions designed to make everyday tasks easier through useful, accessible tools.
-
-Nelakin Studio is part of that vision: making photo editing and image preparation simpler for everyone.
-
-**Created with purpose. Built for creativity.**
-
----
-
-## 📄 License
-
-A license has not yet been specified for this repository. Unless a license is added, do not assume that the source code may be freely reused, modified, or redistributed.
-
----
-
-**Nelakin Studio**  
-*A photo editing product by Nela Company.*
-
-[View Releases](../../releases) · [Report a Bug](../../issues)
+</div>
