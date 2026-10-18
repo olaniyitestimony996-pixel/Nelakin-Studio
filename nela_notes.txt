@@ -1,0 +1,346 @@
+# Nela AI notes. Add as many phrasings as you like on the Q line, separated by |
+# Blank line between topics. A: is the answer. GO: (optional) is a command Nela can run for the user.
+# Nela checks this file BEFORE using the AI model, so every answer added here makes the app faster.
+
+Q: what is nelakin | what is nelakin studio | wetin be nelakin | wetin this app do | what can you do | help | how this app dey work
+A: Nelakin Studio removes photo backgrounds on your computer, no internet needed. Put your product on a clean white background, a studio scene, or any colour, size it for Jumia, Instagram or WhatsApp, add your price and number, and export. Just tell me what you want, for example: "remove background, white background, size for Jumia, export".
+
+Q: how do i remove background | how to remove background | remove bg how | how i go comot background | how to cut out photo
+A: Drop your photo into the app and it removes the background automatically. If you want me to do it for you, type: "remove background".
+GO: remove background
+
+Q: how do i get pro | how to buy pro | pro price | how much is pro | how much be pro | wetin pro get | what is nela pro | upgrade
+A: Nela Pro unlocks full-size exports, unlimited batch, premium scenes (marble, wood, bokeh), price banners, brand watermark, the refine brush, floor reflection and auto enhance. Open Settings, then Plan, to enter your Pro key. To buy one, tap Upgrade in the app.
+
+Q: is it free | free version | wetin free get | what is free
+A: Yes. The free plan removes backgrounds, gives you white, colour and studio backgrounds, marketplace sizes up to 1350px, and batches of 5 photos. Pro adds the premium features.
+
+Q: does it need internet | offline | work without data | i no get data | need data
+A: No internet needed. Nelakin works fully offline on your computer. Internet is only used if you choose to download the optional Nela AI brain or check for updates.
+
+Q: how to undo | undo | go back | how i go comot wetin i do
+A: Press Ctrl+Z to undo and Ctrl+Y to redo. Every change I make can be undone too.
+
+Q: how do i move the photo | drag photo | how to scale | resize product | how to rotate | move picture | make product bigger
+A: Click the photo on the canvas and drag it to move it. Use the mouse wheel or the corner handles to resize, drag the round handle on top to rotate, and double-click to put it back in the centre. You can also tell me: "move left 10%", "make it bigger", "rotate 15 degrees".
+
+Q: how to export | how to save | where my photo go | where is my exported photo | how i go download
+A: Press Ctrl+S to export the current photo, or Ctrl+Shift+S for everything. Files go to your Nelakin Exports folder unless you picked another one in the Export tab. You can also say: "export all".
+
+Q: what size for jumia | jumia size | konga size | image size for jumia
+A: Jumia and Konga like square photos with a white background, 1080 by 1080 pixels. I can set that for you: "size for Jumia, white background".
+GO: white background, size for jumia
+
+Q: what size for instagram | instagram size | whatsapp status size | story size
+A: Instagram posts work best at 1080 by 1350, stories and WhatsApp status at 1080 by 1920. Tell me which one: "size for Instagram story".
+
+Q: passport photo | how to make passport | passport size | id photo
+A: Use the Passport maker tool in the left panel: pick the portrait, choose the background colour and paper layout, and export a sheet ready to print. I can open it for you: "open passport".
+GO: open passport
+
+Q: how to add price | add price tag | put my price | price on image | add my number | add whatsapp number
+A: Tell me the price and number and I will put them on the image, for example: "add ₦15,000 and WhatsApp 08012345678". This is a Pro feature.
+
+Q: how to update | update app | new version | check for update
+A: Open Settings and tap Check for updates. If there is a newer version you will see an Update button.
+
+Q: app is slow | slow | lagging | my laptop is slow | e dey hang | computer dey hang
+A: Try turning on Fast mode in Settings, close other programs, and process fewer photos at once. Nelakin also only keeps small previews in memory so it stays smooth on older laptops.
+
+Q: who made nelakin | who created this | who made this app | who made you | who created you | who created nela
+A: Nelakin Studio and I were built by Testimony, a developer in Abuja, Nigeria, under Nela Company. It is made for Designers/sellers, and it runs on your own computer, offline and private.
+
+Q: thanks | thank you | thank u | nice | well done | e shock me | good job
+A: You are welcome! Tell me what to do with your next photo.
+
+Q: hello | hi | hey | good morning | good afternoon | how far | wetin dey | yo
+A: Hi! I am Nela. Tell me what to do with your photo, for example: "remove background, white background, size for Jumia, export".
+
+Q: what is alpha matting | alpha matting | wetin be alpha matting | what does alpha matting do | hair edges rough
+A: Alpha matting makes soft edges like hair, fur and glass look clean. Open the Cutout tab, switch on Alpha matting, then press Re-process. It is slower, so use it only when the edges look rough. It is a Pro feature.
+
+Q: how do i add a shadow | add shadow | shadow | make it look real | product dey float
+A: Say "add a soft shadow", or open the Scene tab and switch on Shadow. A soft shadow makes the product look placed on a surface instead of floating.
+
+Q: what is padding | padding | space around product | product too close to the edge | make product smaller
+A: Padding is the empty space around your product. Around 8 to 12 percent is the sweet spot for Jumia and Konga. Say "padding 10" or drag the product's corner handle to resize it.
+
+Q: what are looks | looks | one click style | one click look | what is a look
+A: A Look sets the background, shadow and finish in one click. Pick one in the Looks tab, then fine-tune it. Save your own with My Looks (Pro).
+
+Q: can i do many photos | batch | export all | process many photos | how to do many pictures
+A: Yes. Drop a whole folder on the window and Nelakin queues every photo. Free exports up to 5 at once with Export all; Pro is unlimited and adds the Watch folder that exports new photos by itself.
+
+Q: is my photo private | privacy | do you upload my photos | is my data safe | my picture go where
+A: Everything runs on this computer. Your photos are never uploaded anywhere, and Nela AI works offline too.
+
+Q: what is nela ai brain | nela ai brain | install brain | what is the brain | do i need to install nela ai
+A: Nela AI already understands everyday requests without any download. The Brain is an optional extra (about 1 GB, or a 490 MB Lite version) that lets it understand free-form requests in any wording. Tap "Add brain" in the Nela AI bar to install it. You can remove it any time.
+
+Q: how do i use the refine brush | refine brush | erase part of cutout | restore part of photo | fix cutout edges
+A: Click the brush button in the top bar, then paint to erase or restore parts of the cutout. Undo with the brush undo button. The refine brush is a Pro feature.
+
+Q: how do i activate pro | licence key | activate key | where do i put my key | paste licence
+A: Click Upgrade to Pro, paste your licence key in the box and press Activate key. It works offline and stays active on this computer.
+
+Q: what image formats | formats | jpg png webp | which format should i use | transparent png
+A: Export as JPEG for shops, PNG when you need a transparent background, or WEBP for small files. Say "transparent background" and I switch to PNG for you.
+
+Q: keyboard shortcuts | shortcuts | hot keys | short cuts
+A: Ctrl+Z undo, Ctrl+Y redo, Ctrl+O add images, Ctrl+S export, Ctrl+K opens Nela AI, Shift plus arrows nudge the product, mouse wheel resizes it.
+
+Q: free trial | trial | try pro | test pro
+A: Open Nela Pro and press "Start 7-day free trial". Everything in Pro unlocks for 7 days on this computer, no card and no sign-up. A computer can use the trial once.
+
+Q: before and after | before after image | show clients | proof of work
+A: Pro can make one picture with your original on the left and the finished photo on the right. Open the Export tab and press "Make before / after picture", or tell me "make a before and after picture". Great for WhatsApp status.
+
+Q: discount sticker | sale sticker | badge | 30% off
+A: Say "add a 30% off sticker" or type the text in the Promo tab under Discount sticker. It draws a red starburst in the corner of the picture (Pro).
+
+Q: what can you do | commands | help | what can nela do
+A: I can open any tab ("open the scene tab"), pick the cutout model ("use the portrait model"), turn matting on, add photos or a folder, go to the next photo, switch view ("show original", "split view"), set backgrounds, scenes and sizes, add a price tag and a discount sticker, save and use My Looks, name your files, make a before / after picture, export, undo and redo. Just say it in normal words or Pidgin.
+
+Q: my looks | save my style | save look
+A: Style a photo the way you like, then say "save this as my look Shoe Style". Later say "use my look Shoe Style". My Looks is a Pro feature.
+
+Q: file name | rename files | name my exports
+A: Say "name files as {name}_{n}". {name} is the photo name, {n} is the number, {date} the date and {size} the size.
+
+Q: do you remember | memory | do you remember what i did | how do you know what i am doing
+A: Yes. While we talk I keep track of what you are making (a Jumia listing, an Instagram post, a sale advert...) and what you have already done, and I show it as the small progress bar above the chat. Ask "what did I do so far", "what am I doing" or "what next" any time. Say "start over" and I forget it.
+
+Q: several things at once | multitask | many commands | one sentence
+A: You can ask for several things in one sentence, for example: "put it on marble, price 20000 and name it Shikin". I show what I understood, do it, and suggest what to do next.
+
+
+# ===================================================================================
+# More knowledge: the company, the owner, the app, selling photos, troubleshooting
+# ===================================================================================
+
+Q: who is the owner | who is the founder | who built nelakin | who built this app | who is the developer | who is testimony | who is the ceo | wetin be the owner name | who own nela company
+A: Nelakin Studio and Nela AI is built by Testimony, a developer in Abuja, Nigeria, under Nela Company. It started as a small personal project and grew into a full product made for Nigerian/diasporal sellers.
+
+Q: what is nela company | tell me about nela company | about nela company | what does nela company do | nela company products | wetin nela company dey do
+A: Nela Company is a Nigerian software company. It builds tools that work on your own computer, offline and private. Its products are Nelakin Studio (product photos and background removal) and Nela AI (an assistant that understands plain words, including Pidgin).
+
+Q: what is nela ai | what is nela | tell me about nela ai | wetin be nela | what is your name | who are you | your name
+A: I'm Nela, the assistant built by Nela Company. Inside Nelakin Studio, I turn your plain words into actions, so you can say "put it on marble, price 20000 and name it Shikin" and I do all three. I run on your computer, so nothing you type or upload leaves it.
+
+Q: what can nela ai do | nela ai features | nela ai capabilities | what are your abilities | what can you help me with | wetin you fit do
+A: Inside Nelakin I can: remove or change the background, put your product on marble, wood, concrete or a spotlight scene, size it for Jumia, Instagram, WhatsApp, Amazon or Shopify, add a shadow, a price, a name, a sale sticker or your brand, make a before and after picture, export one photo or all of them, undo, and open any part of the app for you. I remember what we have done, keep track of what you are making, and suggest the next step. Say it in normal words, or in Pidgin.
+
+Q: is nela ai like chatgpt | are you chatgpt | are you gemini | are you better than chatgpt | nela ai vs chatgpt | difference between nela and chatgpt
+A: No. ChatGPT and Gemini are big general assistants that run on powerful servers. I am smaller and focused: I run on your own computer and I am built to get your product photos ready to sell. That means I work offline, keep your photos private and do not need data. I will not write essays or answer general questions the way they do.
+
+Q: can you speak | do you have voice | hey nela | voice commands | can i talk to you | can nela hear me
+A: Inside Nelakin Studio you control me by typing. Nela Company also builds Nela AI as a separate desktop assistant, which has voice features. Ask the owner about it if you want it.
+
+Q: can you search the internet | web search | can you browse | search google
+A: No. Inside Nelakin I work offline and only deal with your photos. I do not browse the internet. That is what keeps your pictures private and the app free of data costs.
+
+Q: can you read pdf | open files | read my documents | can you open my files
+A: Not inside Nelakin Studio. Here I work on your pictures: I can add photos or a whole folder, process them, change the look and export. For other file jobs, Nela Company's separate Nela AI desktop assistant is the one to use.
+
+Q: how do i start | how do i use this app | how to use nelakin | getting started | new here | first time | teach me | tutorial | i am new
+A: Four steps. 1: Add your photos, by dragging them in or pressing Add images. The background is removed automatically. 2: Pick a background, like white, a colour or a studio scene. 3: Pick a size for where you sell, like Jumia or Instagram. 4: Press Export. Or just tell me what you want in one sentence and I do it.
+
+Q: how do i add photos | add images | upload photo | how to open a picture | import photo | how to add many photos | add folder | wetin i go do to add picture
+A: Drag your pictures into the app, or press Add images at the top. To add every picture in a folder, use the folder button next to it. You can also tell me "add photos" or "add a folder".
+GO: add photos
+
+Q: how long does it take | how fast is it | speed | how many seconds | why is it taking long | background removal time
+A: On a normal laptop one photo usually takes a few seconds. The first photo after opening the app can take longer, because the cutout model has to load. A computer with a graphics card is faster. The Fast and Compact models are quicker on older computers, and Ultra Detail is the slowest but sharpest.
+
+Q: which model should i use | cutout model | best model | what are the models | studio quality | ultra detail | fast model | portrait model | difference between models
+A: Studio Quality is the best choice for products and is the default. Balanced is for general use. Fast and Compact are lighter for slow computers. People and Portraits is best for photos of people. Ultra Detail is the sharpest and the slowest, and it needs Pro. You can say "use the portrait model" and I switch it. A model other than the default may download once, the first time you pick it.
+
+Q: hair is not clean | fur edges | edges look rough | bad cutout | cutout is not clean | jagged edges | leftover background | part of product is missing
+A: Try this order. 1: Switch to the Ultra Detail model (Pro) or the Studio Quality model. 2: Turn on Alpha matting for hair and fur (Pro). 3: Use the Refine brush to paint back anything that was cut by mistake, or erase what was left (Pro). A plain, well-lit photo with a background that is not the same colour as the product also gives a cleaner cut.
+
+Q: tips for good product photos | how to take good photos | best photo for cutout | photo tips | how to take picture of my product | how to photograph products
+A: Use daylight near a window, not harsh sun. Put the product on a plain surface, like a white sheet or a table. Keep the whole product in the frame with a little space around it. Hold the phone steady and wipe the lens. Take it straight on, and do not mix many colours behind it. A clean photo gives a clean cutout, and then I do the rest.
+
+Q: what background sells best | which background is best | white background or colour | best background for jumia | best background for instagram | what background should i use
+A: For Jumia, Konga, Amazon and most marketplaces, a plain white background is the safe choice. For Instagram and WhatsApp status, a studio scene like marble, wood or a coloured background stands out more. For a sale advert, use a bold colour with a price and a discount sticker. If you are not sure, tell me "make it look professional" and I pick a clean look for you.
+
+Q: what are scenes | studio scenes | scenes | what scenes do you have | marble | wood | concrete | bokeh | spotlight | list of scenes
+A: Scenes are ready-made studio backgrounds. Studio Sweep and Soft Spotlight are free. Marble, Concrete, Warm Wood and Bokeh Lights need Pro. Say "put it on marble" and I apply it.
+
+Q: list of looks | which looks are free | pro looks | look names | what looks do you have | clean white | luxury black | gold rush
+A: Free Looks: Clean White, Soft Shadow, Studio Grey, Studio Sweep and Cutout PNG. Pro Looks: Spotlight, Luxury Black, Marble Luxe, Wood Table, Evening Bokeh, Sunset Pop, Mint Fresh, Gold Rush and Glass Floor. Open the Looks tab to tap one, or tell me "apply the luxury black look".
+
+Q: list of sizes | what sizes do you have | all sizes | canvas sizes | which size presets | size for amazon | size for shopify | size for facebook
+A: Sizes: Jumia and Konga 1080x1080, Facebook and WhatsApp 1200x1200, Instagram Post 1080x1350, Instagram Story 1080x1920, Passport 600x600, Amazon 2000x2000, Shopify 2048x2048, HD Banner 1920x1080, or Original size. Free exports go up to 1350 pixels on the long side, so Amazon, Shopify and HD Banner need Pro. Say "size for Jumia" and I set it.
+
+Q: why is my export small | export is low quality | image is not hd | free export size | export limit | why is my picture blurry after export
+A: The free plan exports up to 1350 pixels on the long side, which is fine for Jumia, Instagram and WhatsApp. Pro exports full size, up to the sizes for Amazon, Shopify and HD banners. There is never a watermark on the free plan. Also check the Export tab: use PNG or JPEG with quality 90 or higher.
+
+Q: is there a watermark | does it put watermark | watermark on free | logo on my picture | do you add your logo | does free have watermark
+A: No. Nelakin never adds a watermark, on the free plan or the Pro plan. The only text on your picture is what you add yourself, like a price or your own brand name.
+
+Q: what does pro unlock | pro features | list pro features | what is in pro | what do i get with pro | benefits of pro | why should i buy pro
+A: Pro unlocks: full-size HD export, unlimited batch export, premium scenes and Looks, price-tag ads and discount stickers, your own brand mark, the watch folder, catalog sheets, passport print sheets, My Looks, the refine brush, floor reflection, auto enhance, alpha matting, the Ultra Detail model, multi-size export and before and after pictures.
+
+Q: how much does pro cost | price of pro | pro cost naira | monthly price | yearly price | lifetime | is pro monthly | pro subscription | how much to pay
+A: To see the current Pro prices and plans, press Upgrade in the app, or send an email from the Upgrade screen. You will get the price and how to pay in naira. A key can be monthly, yearly or lifetime, depending on what you choose.
+GO: open upgrade
+
+Q: how do i pay | payment method | pay in naira | bank transfer | how to buy | where to buy | i want to buy pro | i want pro | buy pro
+A: Press Upgrade in the app, then Get Pro. It opens an email to the seller with your PC code already included. After you pay, you receive a licence key made for your computer. Paste it into Settings, then Plan, and Pro turns on.
+GO: open upgrade
+
+Q: what is a pc code | machine code | my pc code | where is my pc code | what is the code for | why do you need my pc code
+A: Your PC code is a short code that identifies your computer. You find it on the Upgrade screen, and there is a Copy button. Your Pro key is made for that one code, so it works on your computer and cannot be shared with other people. Send the code with your payment so the key can be made for you.
+
+Q: can i share my key | share licence | can my friend use my key | use one key on two pcs | can i use pro on two computers | is the key for one pc
+A: A key is made for one computer only. If you give it to a friend, it will say it was made for a different computer. Your friend can get their own key by sending their own PC code. If you change your computer, send your new PC code to get a new key.
+
+Q: i changed my computer | new laptop | my key is not working | key says different computer | key invalid | licence not valid | wrong pc | key not working | reinstalled windows
+A: A key only works on the computer it was made for. If you have a new laptop, or you reinstalled Windows and the PC code changed, open the Upgrade screen, copy your new PC code and send it to the seller. You will get a new key for it. If the key says it is invalid, copy it again with no spaces at the start or end, and make sure it is the whole key.
+
+Q: how do i remove my licence | deactivate | remove key | sign out of pro | move pro to another pc
+A: Open the Upgrade or Plan screen and press Remove licence from this computer. The app goes back to the free plan or your trial.
+
+Q: how long is the free trial | free trial days | 7 day trial | can i try pro for free | trial ended | my trial finished | trial expired | can i get another trial
+A: You can try Pro free for 7 days. It starts when you press Start free trial on the Upgrade screen, and it is offered once per computer. When it ends, the app goes back to the free plan and your pictures stay safe. To keep Pro, press Upgrade and get a key.
+GO: start my free trial
+
+Q: where are my photos saved | where do exports go | output folder | where is the nelakin folder | find my exported pictures | open output folder
+A: Exports go to the Nelakin folder inside your Pictures folder, unless you picked another folder in the Export tab. I can open it for you. Say "open the output folder".
+GO: open the output folder
+
+Q: how do i change output folder | save somewhere else | export location | change save folder | where to save
+A: Open the Export tab and choose a different output folder. After that, every export goes there.
+GO: open the export tab
+
+Q: how do i name my files | file names | rename exports | export name | name template
+A: In the Export tab you can set a file-name pattern with {name} for the photo name, {n} for the number, {date} for the date and {size} for the size. For example "shop_{n}". I can set it for you. Say "name files as shop_{n}".
+
+Q: what is watch folder | watch folder | auto process | automatic processing | process while i sleep | hot folder
+A: The Watch folder looks at a folder you choose. Any new picture you drop in is cut out and exported automatically, with your current style. It is good for a shop with many new products. It needs Pro. Say "start the watch folder".
+GO: start the watch folder
+
+Q: what is catalog sheet | catalog | make catalog | product sheet | catalogue | product grid
+A: The catalog maker puts many of your finished product pictures on one sheet with names and prices, ready to share on WhatsApp or print. It needs Pro. Say "open catalog".
+GO: open catalog
+
+Q: passport sheet | print passport | how to print passport photos | passport size photos | passport maker | id photo print
+A: The passport maker cuts out the person, puts them on a plain background in the right size and lays several copies on one sheet to print. The sheet for printing needs Pro. Say "open passport maker".
+GO: open passport maker
+
+Q: what is my looks | save my look | favourite style | save style | use the same style again | same style for every photo
+A: Style one photo the way you like, then say "save this as my look Shoe Style". Next time say "use my look Shoe Style" to apply the same style to any photo in one tap. It saves a lot of time for a shop with one style. My Looks needs Pro.
+
+Q: apply same style to all photos | same background for all | do same for all | all photos same look | batch style | how to make all pictures look the same
+A: Style one photo, then save it as My Look (Pro), or simply move to the next photo and tell me "do the same for the next one". The look settings, like background, size, shadow and price tag, apply to every photo you export, so you can then say "export all".
+
+Q: how do i add my brand | brand name | my shop name | logo text | watermark my name | put my name on picture | brand mark | add my business name
+A: In the Promo tab you can add your brand name or shop name as a small mark in a corner. It is your own text, and it is not our watermark. It needs Pro. Say "brand Shikin Wears".
+
+Q: how do i name the product | product name on picture | headline | title on picture | name it | call it | caption
+A: Say "name it Shikin" or "call it Kemi Bag". The name appears on the price banner. Combine it with a price, for example "name it Shikin and add price 20000". It needs Pro.
+
+Q: price format | naira sign | how do i write price | 20k | 20000 | price with comma | how to type price | can i use k for thousand
+A: You can write the price in plain words. "price 20000", "20k" and "twenty thousand" all become ₦20,000. If you want a different currency, put the amount in quotes with the sign, like "$50".
+
+Q: how do i add my phone number | add contact | whatsapp number on picture | call to order | put my number
+A: Say "add my number 08012345678" or "whatsapp 08012345678" and it appears on your price banner. You can combine it with the price and name in one sentence. It needs Pro.
+
+Q: how to make sale advert | make an advert | flyer | promo picture | sale post | discount post | how to make a sale picture | black friday | december sale
+A: Put your product on a bold colour or scene, then add a price, a name and a discount sticker. For example, say: "red background, price 15000, name it Shikin and add a 30% off sticker". Export for Instagram Post or Story. Price banners and stickers need Pro.
+
+Q: how do i use instagram | instagram post | instagram story | whatsapp status | story size | post size for instagram | tiktok size | facebook post
+A: For an Instagram feed post, say "size for Instagram post". For stories and WhatsApp status, say "size for Instagram story". For Facebook or a WhatsApp profile, say "size for Facebook". Then export.
+
+Q: how to make a white background | white background | make background white | marketplace white | pure white
+A: Say "white background". It sets a clean white backdrop. Add "and a soft shadow" so the product does not look like it is floating.
+GO: white background
+
+Q: transparent background | png transparent | how to get transparent | no background png | cutout png | logo transparent
+A: Say "transparent background". Then export as PNG. JPEG cannot be transparent, so the app uses PNG for you when you choose a transparent background.
+GO: transparent background
+
+Q: blur background | blurred background | bokeh effect | portrait mode background | make background blur
+A: Say "blur the background". It keeps your original photo behind the product, softly blurred, which looks natural for lifestyle shots.
+GO: blur the background
+
+Q: how do i make it look professional | make it look good | make it nice | improve my picture | make it better | my picture looks bad | i do not like it | it is ugly | make am fine
+A: Tell me "make it look professional" and I give it a clean white background, a soft shadow, comfortable space around the product and a light colour boost. You see the plan before it runs and can undo it with one tap. If you want a different style, tell me where you will sell it, like "for Jumia" or "for Instagram", and I suggest what fits.
+GO: make it look professional
+
+Q: how do i make a before and after | before after for whatsapp | show my work | before and after picture | proof for client
+A: Say "make a before and after picture". It puts your original on one side and the finished picture on the other, with labels, ready to post. It needs Pro and is saved in your output folder.
+GO: make a before and after picture
+
+Q: do you remember me | do you remember my name | remember what i said | memory | will you forget | do you save my chats | do you keep my conversation
+A: I remember what we do together while the app is open, and I keep your brand name and phone number for next time. I do not send anything to the internet. Say "start over" and I forget what I remembered.
+
+Q: what is my goal | what am i making | keep track | goal | progress | track my work | where did we stop | what have i done
+A: When you tell me what the picture is for, like a Jumia listing, an Instagram post or a sale advert, I keep track of the steps and show a small progress bar above the chat. Ask me "what did I do so far" or "what next" any time, and I answer from what is really on your screen.
+
+Q: can i say many things at once | multiple commands | do many things | combine commands | long command | several instructions
+A: Yes. You can say many things in one sentence. For example: "I need it to be marble, add a price of 20000 and name it Shikin", or "white background, size for Jumia, soft shadow and export". I show what I understood, do it, and suggest the next step.
+
+Q: do you understand pidgin | pidgin | naija | can i speak pidgin | i dey speak pidgin | do you understand yoruba | igbo | hausa
+A: Yes, I understand everyday Pidgin, like "abeg make am bigger" or "comot the background". I answer in Pidgin if you write in Pidgin. I do not fully understand Yoruba, Igbo or Hausa yet.
+
+Q: how do i install the brain | brain download | add brain | brain size | how big is the brain | download brain | brain not downloading | engine error
+A: Press the Add brain button in the Nela AI bar. Pick Standard (about 1.1 GB) or Lite (about 490 MB) and press Download. It needs internet once. If you already use Ollama with a model, I reuse it and do not download the model again. If the engine download fails, check your internet and try again, and the log file in Settings has the details.
+
+Q: do i need the brain | is the brain required | without brain | what does the brain add | brain or no brain
+A: You do not need it. Everyday requests, like backgrounds, sizes, shadows, prices, stickers and exports, already work without it. The brain helps me understand free wording, for example "make it feel like a cosy coffee shop". It is optional, runs offline and you can remove it any time.
+
+Q: why is the brain slow | brain is slow | nela ai is slow | thinking takes long | ai takes time | slow reply
+A: The brain runs on your own computer, so speed depends on your computer. On a laptop without a graphics card, a free-wording request can take several seconds. Common requests are answered instantly, without the brain. The Lite brain is quicker on weak computers.
+
+Q: why did nela not understand | you did not understand | you misunderstood | wrong answer | not what i asked | nela is wrong | that is not what i said
+A: Sorry about that. Try saying it a little simpler or splitting it into two sentences, like "white background" and then "size for Jumia". Press Undo (Ctrl+Z) to go back at any time. If it keeps happening, tell the owner the exact sentence, and it will be added so I understand it next time.
+
+Q: what can you not do | your limits | what you cannot do | can you edit faces | can you retouch | can you remove objects | can you generate images | can you make pictures from text | can you draw
+A: I cannot create new pictures from text, retouch faces, remove objects from inside a photo or answer general questions. I work with your own photos: cut out the product, change the background, size, shadow, price, stickers, brand and export. If you ask for something outside that, I tell you plainly and suggest what I can do instead.
+
+Q: is it safe | is it a virus | is nelakin safe | security | trust | can i trust this app | will it spy | does it collect data
+A: Nelakin runs on your computer. Your photos are not uploaded anywhere, and there is no account or tracking. It only uses the internet if you choose to download the optional brain or check for an update. If your antivirus warns about a new installer, it usually means the app is new and not yet widely known, so you can allow it if you got it from the seller.
+
+Q: which windows versions | system requirements | does it work on windows 7 | will it run on my laptop | minimum ram | how much space | what computer do i need | specs
+A: It is made for Windows 10 and 11. A normal laptop with 4 GB of RAM works, and 8 GB is more comfortable. Leave about 2 GB of free disk space, plus another 1 GB if you add the AI brain. A graphics card makes it faster but is not required.
+
+Q: does it work on mac | linux | android | iphone | phone | mobile app | ios | is there phone version | tablet
+A: Right now Nelakin Studio is for Windows computers. A phone version is being planned, because many sellers work from their phones. Follow Nela Company for news.
+
+Q: app will not open | app crashed | blank screen | not starting | white screen | nelakin is not opening | error on start | cannot start
+A: Close the app fully and open it again. If it is still blank, make sure Microsoft Edge WebView2 is installed (it is on most Windows 10 and 11 computers). Then open Settings, press Open log, and send the log to the seller so the problem can be found. If you can, restart the computer once.
+
+Q: how do i clear cache | clear cache | free space | app is using too much space | disk full | delete cache | cache size | storage
+A: Open Settings and press Clear cache. It removes the saved cutouts and temporary files, so you get disk space back. Your exported pictures are not touched. The cutouts are simply made again when you open a photo next time.
+
+Q: how do i see the log | open log | error log | send log | where is the log file | log file
+A: Open Settings and press Open log. It opens the folder with the log files. If something went wrong, send the newest log file to the seller, and it shows exactly what happened.
+
+Q: how do i reset the app | reset | start fresh | fresh install | make app new | delete my data | reset settings | uninstall
+A: Open Settings and press Clear cache. To fully reset, close the app and delete the profile, settings and session files in the .nelakin folder in your user folder. Keep the models folder, or the models will download again. Your exported pictures stay safe in your Pictures folder.
+
+Q: how do i update | update available | new version | is there an update | how to get latest | auto update | latest version
+A: Nelakin checks for updates when you have internet. When a new version is ready, the app shows an Update button. Press it, and the app installs the new version and keeps your settings and your Pro key.
+
+Q: what is new | what is new in this version | what changed | release notes | new features | latest features
+A: Recent additions: a flat dark design, Home pictures you can change by dropping files in a folder, a free Pro trial, before and after pictures, discount stickers, keys that work on one computer only, and a smarter Nela AI that remembers, tracks what you are making, suggests the next step and handles many requests in one sentence.
+
+Q: contact support | contact the owner | how do i reach you | customer care | support | help me please | i have a problem | report a bug | complain | feedback | suggestion
+A: Press Upgrade or Settings in the app to find the seller contact, or email the owner. When you report a problem, send the newest log file (Settings, Open log) and tell what you pressed before the problem. Your ideas and feedback are welcome, because the app is built for sellers like you.
+
+Q: refund | money back | i paid and nothing happened | i paid but no key | payment problem | scam | is pro real
+A: If you paid and have not received your key, send your payment proof and your PC code to the seller, and a key is made for your computer. Keys are made by hand for each computer, so it can take a little time. Only pay the seller you got the app from.
+
+Q: can i sell this app | resell | reseller | agent | can i be a distributor | become an agent | partnership | partner
+A: Ask the owner about reseller or agent options. Do not share a licence key, because each key works on one computer only.
+
+Q: can i use it for my business | commercial use | can i use pictures commercially | do i own the pictures | copyright | is it legal to use for my shop
+A: Yes. The pictures you make from your own photos are yours to use in your business. Nelakin does not add a watermark or claim rights over your images. Only use photos you took or have the right to use.
+
+Q: best way to sell on jumia | how to sell on jumia | jumia tips | jumia picture rules | jumia white background | konga rules
+A: Marketplaces like Jumia prefer a plain white background, the product centred and filling most of the frame, and a sharp, square picture. Say "white background, size for Jumia, soft shadow" and I do it. Then export. Do not put prices or phone numbers on marketplace pictures, because many marketplaces do not allow them.
+
+Q: how to sell on instagram | instagram tips | whatsapp business | whatsapp status tips | sell on social media | get more customers | how to get more sales
+A: On Instagram and WhatsApp, a clean picture with a good scene, your price and your number stands out. Use the same style for every product, so your page looks like a real brand. Save that style as My Look (Pro). Post a before and after picture sometimes, because people love to see the change.
